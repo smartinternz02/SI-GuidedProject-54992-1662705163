@@ -4,8 +4,7 @@
 --------------------------------------------------------------------------------------------------------
 Android Application using kotlin 
 ---------------------------------------------------------------------------------------------------------
-In this program I have learnt how to build an Android application in Android Studio using Kotlin language.
-----------------------------------------------------------------------------------------------------------
+
 Project Name: Grocery App
 
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
