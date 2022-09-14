@@ -14,4 +14,4 @@ We can add grocery items ,quantity of that grocery item and  price of that item.
 
 Thank you for giving opportunity to join this excellent program.
 
-~Praik Patrimath.
+~Pratik Patrimath.
